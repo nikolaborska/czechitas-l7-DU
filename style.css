@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+h1 {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+p {
+    padding-left: 10px;
+    padding-top: 10px;
+}
